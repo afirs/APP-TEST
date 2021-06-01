@@ -30,15 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "2D394C89-095B-4D73-B212-4FBB35B4B712"
+      "class": "rectangle",
+      "id": "0A1F9C81-0F9B-4F59-AC7E-7E6418F3810A"
     },
     {
-      "class": "shapeGroup",
-      "id": "914CD396-A48D-4CC1-95CA-FF5038270671"
+      "class": "shapePath",
+      "id": "8416A05A-EF47-46F4-B256-61EB7FBBC232"
+    },
+    {
+      "class": "shapePath",
+      "id": "C92BE2E3-0ADC-4F34-BD92-00F3D45990C9"
     }
   ],
   "name": "Combined Shape",
