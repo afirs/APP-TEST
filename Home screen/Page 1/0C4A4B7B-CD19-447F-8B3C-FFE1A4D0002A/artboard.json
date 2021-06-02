@@ -55,6 +55,14 @@
     {
       "class": "symbolInstance",
       "id": "CC6446C2-DA04-4ED8-9894-C8754B3462FA"
+    },
+    {
+      "class": "text",
+      "id": "93DBB410-1690-45FB-916C-7F88665F0BD6"
+    },
+    {
+      "class": "text",
+      "id": "DDCC22BC-E685-4D01-A614-46F9E2E73FA6"
     }
   ],
   "name": "Artboard",

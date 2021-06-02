@@ -27,6 +27,66 @@
     "_class": "documentState"
   },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "034CA937-4B1B-4D1F-8229-C584325EBDBA",
+      "fontFamilyName": "Noto Sans JP",
+      "fontFileName": "NotoSansJP-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansJP-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "455F9AA0-5532-4EEF-BD66-E5889E27BD1B",
+      "fontFamilyName": "Noto Sans JP",
+      "fontFileName": "NotoSansJP-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NotoSansJP-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8063E762-EEDB-4CEB-ACD4-FE7379984015",
+      "fontFamilyName": "Noto Sans JP",
+      "fontFileName": "NotoSansJP-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansJP-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A05D8929-39F0-4BBC-9CCB-672A37DFE516",
+      "fontFamilyName": "Noto Sans JP",
+      "fontFileName": "NotoSansJP-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansJP-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AC4068AF-70BF-49FF-81D5-C190FC4E16A7",
+      "fontFamilyName": "Noto Sans JP",
+      "fontFileName": "NotoSansJP-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansJP-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C3D7044D-95DD-4C72-B67A-5C122C15A136",
+      "fontFamilyName": "Noto Sans JP",
+      "fontFileName": "NotoSansJP-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansJP-Black"
+      ]
+    }
   ],
   "foreignLayerStyles": [
     {
