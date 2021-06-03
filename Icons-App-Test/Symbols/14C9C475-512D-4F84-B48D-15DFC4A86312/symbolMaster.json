@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97364FAF-20B9-4E57-BAE8-909D8077FAB7",
+  "do_objectID": "14C9C475-512D-4F84-B48D-15DFC4A86312",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 656,
-    "y": 465
+    "x": 100,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -49,12 +51,18 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "AACEA537-2019-4460-899D-3FF992B1A687"
+      "class": "rectangle",
+      "id": "599CFFDD-B18A-4F79-8FE6-8D8681CE9A5A"
+    },
+    {
+      "class": "oval",
+      "id": "FC3E30BC-D509-4B98-866A-5771A0DC2591"
     }
   ],
   "name": "Icons / Circle",
-  "nameIsFixed": true,
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -96,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BC9AA1BE-E10A-40E4-8B69-21E365936272",
+    "do_objectID": "72FF47E8-39DD-452D-A40C-1EF1D456E7FB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,6 +116,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "2A0F353F-3BB9-4794-97FF-5A9254823112",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

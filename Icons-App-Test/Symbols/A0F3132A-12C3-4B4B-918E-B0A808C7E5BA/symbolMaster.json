@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97364FAF-20B9-4E57-BAE8-909D8077FAB7",
+  "do_objectID": "A0F3132A-12C3-4B4B-918E-B0A808C7E5BA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 656,
-    "y": 465
+    "x": 100,
+    "y": 124
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -49,12 +51,18 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "AACEA537-2019-4460-899D-3FF992B1A687"
+      "class": "rectangle",
+      "id": "D3B5B646-0578-4BF0-BF77-4D4C07F924D9"
+    },
+    {
+      "class": "rectangle",
+      "id": "63F928C0-446A-4B2C-80BD-77D1D4E11FA3"
     }
   ],
-  "name": "Icons / Circle",
-  "nameIsFixed": true,
+  "name": "Icons / Rombus",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -96,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BC9AA1BE-E10A-40E4-8B69-21E365936272",
+    "do_objectID": "EC7B37CA-678E-4C7E-BF2B-A0876AAC990D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,6 +116,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "EBE9EDB0-1B82-448C-8EE4-F629636CCB9A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

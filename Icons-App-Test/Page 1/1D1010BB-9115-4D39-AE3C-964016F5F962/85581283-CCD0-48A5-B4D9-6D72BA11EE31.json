@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97364FAF-20B9-4E57-BAE8-909D8077FAB7",
+  "do_objectID": "85581283-CCD0-48A5-B4D9-6D72BA11EE31",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,44 +17,26 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 656,
-    "y": 465
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "AACEA537-2019-4460-899D-3FF992B1A687"
-    }
+  "name": "Icons / Square",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Icons / Circle",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -96,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BC9AA1BE-E10A-40E4-8B69-21E365936272",
+    "do_objectID": "36E6EED5-6318-4B42-BF34-09E43F0D37D2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "8F6D32C4-3809-4E48-94A7-E06020692F78",
+  "verticalSpacing": 0
 }

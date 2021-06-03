@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97364FAF-20B9-4E57-BAE8-909D8077FAB7",
+  "do_objectID": "270AD008-D3D2-4FD2-9A56-770DBFA4A82F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,46 +15,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 656,
-    "y": 465
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -815,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "AACEA537-2019-4460-899D-3FF992B1A687"
+      "class": "symbolMaster",
+      "id": "14C9C475-512D-4F84-B48D-15DFC4A86312"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A0F3132A-12C3-4B4B-918E-B0A808C7E5BA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D2712F0-4F6C-4DA3-8A04-4A4430BB61A9"
     }
   ],
-  "name": "Icons / Circle",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -96,7 +91,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BC9AA1BE-E10A-40E4-8B69-21E365936272",
+    "do_objectID": "B2DC51C3-88F5-4C33-9F77-F4319FD8FB89",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -110,7 +105,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -651,
     "guides": [
     ]
   }
