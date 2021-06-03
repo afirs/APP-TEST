@@ -33,7 +33,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "F6DE97C1-2963-4F9B-B6CF-D54700E3854B_stringValue",
+      "overrideName": "0408AFBE-33DF-4FA1-8CA2-1165BA785422/51312006-808E-4FE4-A30D-981E6D6FC1CC_stringValue",
       "value": "2 button"
     }
   ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9F5501CA-8483-494E-B23D-BC814AECC29E",
+  "symbolID": "DA915C3F-AD35-4BBD-B39B-5E9B23FF01CE",
   "verticalSpacing": 0
 }
