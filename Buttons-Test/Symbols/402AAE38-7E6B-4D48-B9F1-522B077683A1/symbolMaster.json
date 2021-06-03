@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D52FA2DD-D05C-43D3-8A3C-5221A0EB7EA0",
+  "do_objectID": "402AAE38-7E6B-4D48-B9F1-522B077683A1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 335,
-    "x": 100,
-    "y": 203
+    "x": 101,
+    "y": 441
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -48,33 +48,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "979601A5-9536-4133-9834-BEC29C3EDCE4"
-    },
-    {
-      "class": "text",
-      "id": "51312006-808E-4FE4-A30D-981E6D6FC1CC"
-    },
-    {
       "class": "symbolInstance",
-      "id": "9616BFA5-7BFF-4E17-AF95-148B5A5C0E40"
+      "id": "0408AFBE-33DF-4FA1-8CA2-1165BA785422"
     }
   ],
-  "name": "Button / Square / Default",
+  "name": "Button / Square / Positive",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9616BFA5-7BFF-4E17-AF95-148B5A5C0E40_symbolID"
+      "overrideName": "0408AFBE-33DF-4FA1-8CA2-1165BA785422_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "51312006-808E-4FE4-A30D-981E6D6FC1CC_stringValue"
+      "overrideName": "0408AFBE-33DF-4FA1-8CA2-1165BA785422/9616BFA5-7BFF-4E17-AF95-148B5A5C0E40_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0408AFBE-33DF-4FA1-8CA2-1165BA785422/51312006-808E-4FE4-A30D-981E6D6FC1CC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0408AFBE-33DF-4FA1-8CA2-1165BA785422_fillColor"
     }
   ],
   "presetDictionary": {
@@ -118,7 +120,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9A4EE643-13EB-475D-8C94-2C922A21BE3E",
+    "do_objectID": "B594E2FB-8A92-4D22-A95D-228FB1931E1A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,7 +132,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "37705F03-F893-4D07-872E-58ADC9343192",
+  "symbolID": "2ECD4544-3F0F-4D9B-A293-6EBC686222EA",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
