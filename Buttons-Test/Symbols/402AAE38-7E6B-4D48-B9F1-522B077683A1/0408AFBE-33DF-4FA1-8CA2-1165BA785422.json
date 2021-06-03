@@ -1,8 +1,43 @@
 {
-  "_class": "sharedStyle",
-  "do_objectID": "AC3CFE21-A1F5-45AA-96CE-32336F0AF142",
-  "name": "Chalk",
-  "value": {
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0408AFBE-33DF-4FA1-8CA2-1165BA785422",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 335,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Square",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
@@ -36,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EDE06F0B-11E3-40C7-8029-5B1F08350234",
+    "do_objectID": "6F296C2D-0274-4CF9-ABFB-4E1744847BBB",
     "endMarkerType": 0,
     "fills": [
       {
@@ -44,9 +79,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0,
+          "green": 0.7661345108695652,
+          "red": 0.06151444977784831
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -99,5 +134,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "37705F03-F893-4D07-872E-58ADC9343192",
+  "verticalSpacing": 0
 }
