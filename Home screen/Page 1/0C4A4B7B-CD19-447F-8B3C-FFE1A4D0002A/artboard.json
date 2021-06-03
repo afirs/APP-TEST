@@ -59,6 +59,30 @@
     {
       "class": "symbolInstance",
       "id": "FB3E2D03-58BB-4878-B5D6-5990C147A09F"
+    },
+    {
+      "class": "rectangle",
+      "id": "55A1C94F-CDD4-4680-BFD0-96DE361A5952"
+    },
+    {
+      "class": "rectangle",
+      "id": "0C6E2195-DAE5-44EB-A427-174E8118657A"
+    },
+    {
+      "class": "rectangle",
+      "id": "E2CD9270-709E-48A7-83E0-171D61A883F4"
+    },
+    {
+      "class": "rectangle",
+      "id": "BAF3BAF1-095A-4D57-910C-8AC2548C8BC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "A57D3EC2-D109-4FAE-A375-08E4CC8A0074"
+    },
+    {
+      "class": "rectangle",
+      "id": "F6A402E4-2896-483B-8213-EBF6DDA1E3CA"
     }
   ],
   "name": "Artboard",
