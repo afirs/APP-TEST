@@ -1,8 +1,15 @@
 {
-  "_class": "symbolInstance",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC6446C2-DA04-4ED8-9894-C8754B3462FA",
+  "do_objectID": "35E412E0-F696-4EB1-A7D7-668DBB7DB7F7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,28 +22,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 37,
-    "y": 142
+    "height": 48,
+    "width": 335,
+    "x": 838,
+    "y": 603
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icons / Info / Info 24 / Filled Copy",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AB8F4E16-7592-443B-B80C-9ABA1C4A325C"
+    }
   ],
+  "name": "Button 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -71,7 +96,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "42D089A5-FFF7-4BC3-A71F-17771BB8FFBB",
+    "do_objectID": "9BAC21FA-1B9E-47F1-971A-AEF81F1BEE04",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +108,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BA5E31EA-73B4-4073-AB8C-8AA9732BA92D",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }

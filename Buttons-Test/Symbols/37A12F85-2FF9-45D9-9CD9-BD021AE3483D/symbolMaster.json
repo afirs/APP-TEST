@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0C4A4B7B-CD19-447F-8B3C-FFE1A4D0002A",
+  "do_objectID": "37A12F85-2FF9-45D9-9CD9-BD021AE3483D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
-    "width": 375,
-    "x": 817,
-    "y": 322
+    "height": 48,
+    "width": 335,
+    "x": 100,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,29 +41,42 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "6AD44A43-ADDA-43B5-AD51-FC6B0D5291AF"
+      "class": "rectangle",
+      "id": "368FDB55-AEBC-4612-B096-7480DA614BD9"
+    },
+    {
+      "class": "text",
+      "id": "F6DE97C1-2963-4F9B-B6CF-D54700E3854B"
     },
     {
       "class": "symbolInstance",
-      "id": "43655CDA-7C34-49F2-8444-8AB5CDDA5A0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FB3E2D03-58BB-4878-B5D6-5990C147A09F"
+      "id": "0A31DEDD-69F5-4C16-95E1-3B8940C52A34"
     }
   ],
-  "name": "Artboard",
+  "name": "Button / Square",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A31DEDD-69F5-4C16-95E1-3B8940C52A34_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F6DE97C1-2963-4F9B-B6CF-D54700E3854B_stringValue"
+    }
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -104,7 +118,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F61C52B-2B9D-4943-AB34-98A7657ED146",
+    "do_objectID": "BFDE8CCD-52EB-4652-8641-188FA0DF6DF3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,6 +130,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "CE238C36-3061-447E-B821-316C12D90B0C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

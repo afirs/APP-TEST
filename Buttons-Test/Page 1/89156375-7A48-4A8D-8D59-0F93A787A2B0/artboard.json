@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0C4A4B7B-CD19-447F-8B3C-FFE1A4D0002A",
+  "do_objectID": "89156375-7A48-4A8D-8D59-0F93A787A2B0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
-    "width": 375,
-    "x": 817,
-    "y": 322
+    "height": 48,
+    "width": 335,
+    "x": 838,
+    "y": 715
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -46,23 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "6AD44A43-ADDA-43B5-AD51-FC6B0D5291AF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "43655CDA-7C34-49F2-8444-8AB5CDDA5A0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FB3E2D03-58BB-4878-B5D6-5990C147A09F"
+      "id": "73410225-6104-4B52-AA15-96FA9596B721"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Button 2",
+  "nameIsFixed": true,
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -104,7 +96,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F61C52B-2B9D-4943-AB34-98A7657ED146",
+    "do_objectID": "D6515B67-9CB1-4703-AF39-CA9F9DFA649A",
     "endMarkerType": 0,
     "fills": [
     ],

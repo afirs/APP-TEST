@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A3711244-A7D8-4B3B-A9A2-96C046FF4C3D",
+  "do_objectID": "6AD44A43-ADDA-43B5-AD51-FC6B0D5291AF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 37,
-    "y": 332
+    "height": 48,
+    "width": 335,
+    "x": 20,
+    "y": 449
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icons / Info / Info 24 / Filled Copy 2",
+  "name": "Button / Rombus",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "52577229-3C24-41CE-9978-659E482E4029_stringValue",
+      "value": "1 button"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ABF2B353-8C4D-42FF-8771-2C8208A8A12B",
+    "do_objectID": "7EE8F2DE-BA2A-4A70-8923-02B887F5C4CD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BA5E31EA-73B4-4073-AB8C-8AA9732BA92D",
+  "symbolID": "AB60BDAE-31F6-4A62-B7C7-4B6C77937927",
   "verticalSpacing": 0
 }

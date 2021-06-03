@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "134ED7C4-2E7F-488F-B152-6B0B60AC09DD",
+  "do_objectID": "71A039BE-E747-4222-A5A5-A1322484D949",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 37,
-    "y": 48
+    "x": 295,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icons / Info / Info 24 / Filled",
+  "name": "Icons / Circle",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8E25D819-B443-4F1F-A055-79BF86BC8460",
+    "do_objectID": "DB4D5B2F-2EB6-4198-A6C0-0AF4B4D19F10",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "995E4242-704B-4DE3-B382-7AA80C490235",
+  "symbolID": "B858F2FA-44FD-4FAB-8711-9BE67687D638",
   "verticalSpacing": 0
 }

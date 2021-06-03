@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0C4A4B7B-CD19-447F-8B3C-FFE1A4D0002A",
+  "do_objectID": "3DEAC774-BD0F-46CF-9E76-B7E032C0CD53",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
-    "width": 375,
-    "x": 817,
-    "y": 322
+    "height": 48,
+    "width": 335,
+    "x": 100,
+    "y": 105
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,29 +41,42 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "6AD44A43-ADDA-43B5-AD51-FC6B0D5291AF"
+      "class": "rectangle",
+      "id": "490B7857-665F-431B-B844-7DF18C27B8EC"
+    },
+    {
+      "class": "text",
+      "id": "52577229-3C24-41CE-9978-659E482E4029"
     },
     {
       "class": "symbolInstance",
-      "id": "43655CDA-7C34-49F2-8444-8AB5CDDA5A0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FB3E2D03-58BB-4878-B5D6-5990C147A09F"
+      "id": "71A039BE-E747-4222-A5A5-A1322484D949"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Button / Rombus",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71A039BE-E747-4222-A5A5-A1322484D949_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52577229-3C24-41CE-9978-659E482E4029_stringValue"
+    }
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -104,7 +118,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F61C52B-2B9D-4943-AB34-98A7657ED146",
+    "do_objectID": "4517F58C-3F96-49AC-A659-2BF1BBAB90B3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,6 +130,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "DB805DA2-B7B5-4750-8546-5739D51559AD",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7294117647058823,
-            "green": 0.5019607843137255,
-            "red": 0.03529411764705882
+            "blue": 0.7972027972027975,
+            "green": 0,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansJP-Medium",
-              "size": 14
+              "name": "NotoSansJP-Regular",
+              "size": 16
             }
           },
-          "kerning": -0.2,
+          "kerning": -0.3,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,16 +28,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "Button sample"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "26E28C3D-1A66-43C4-B2E8-E1EA0D71DA92",
+  "do_objectID": "51312006-808E-4FE4-A30D-981E6D6FC1CC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 105,
-    "x": 89,
-    "y": 336
+    "height": 24,
+    "width": 263,
+    "x": 16,
+    "y": 12
   },
-  "glyphBounds": "{{0, 4}, {105, 16}}",
+  "glyphBounds": "{{1, 6}, {105, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,9 +65,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Type something Copy 2",
+  "name": "Button sample",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -105,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D86285C8-1EC1-4BB0-A1B8-4A950D484CA7",
+    "do_objectID": "4AEE3CEA-2399-4E15-BB5B-D1601B8D38E8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,18 +121,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7294117647058823,
-          "green": 0.5019607843137255,
-          "red": 0.03529411764705882
+          "blue": 0.7972027972027975,
+          "green": 0,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansJP-Medium",
-            "size": 14
+            "name": "NotoSansJP-Regular",
+            "size": 16
           }
         },
-        "kerning": -0.2,
+        "kerning": -0.3,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -140,9 +140,9 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
